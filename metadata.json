@@ -1,0 +1,6 @@
+{
+  "name": "GlassPOS",
+  "description": "Modern offline Point-of-Sale application with inventory management, sales receipts, reports, and custom settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
